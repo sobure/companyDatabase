@@ -26,7 +26,7 @@ class Engineer extends Employee{
         this.id = Employee.prototype.getId;
         this.getRole = Engineer.prototype.getRole;
         this.email = Employee.prototype.getEmail;
-        this.email = Employee.prototype.getEmail;
+      
 
     }
 
